@@ -1,0 +1,4 @@
+x0=0 s0=0 move left
+x1=1 s0=0 move right
+x2=1 s0=0 move right
+x3=1 s0=0 move right
